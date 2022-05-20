@@ -1,4 +1,4 @@
-/* Author: Lochan Basyal
+// Author: Lochan Basyal
 
 // LCS using memoization
 #include <iostream>
